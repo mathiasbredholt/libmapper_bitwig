@@ -14,7 +14,7 @@ brew install maven
 mvn install
 ```
 * Move to libmapper.bwextension to Bitwig Extensions folder
-* Copy these into /Applications/Bitwig Studio.app/Contents/Frameworks
+* Copy these from /usr/local/lib/ into /Applications/Bitwig Studio.app/Contents/Frameworks
 ```
 libmapperjni.la
 libmapperjni.dylib
